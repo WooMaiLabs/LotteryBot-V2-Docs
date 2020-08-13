@@ -36,7 +36,7 @@
 
 ## 验证工具
 
-我们提供了用于自行验证中奖结果的工具。该工具是 [开源的]([../tools/verify-tool/](https://github.com/WooMaiLabs/LotteryBot-V2-Docs/tree/master/tools/verify-tool))。
+我们提供了用于自行验证中奖结果的工具。该工具是 [开源的](https://github.com/WooMaiLabs/LotteryBot-V2-Docs/tree/master/tools/verify-tool)。
 
 ## 附录
 
@@ -51,5 +51,5 @@ User ID Hash = sha256(User ID + 抽奖ID)
 
 ### 如何提高自己的中奖概率？
 
-首先，你需要拥有可观的以太坊算力（越多概率越高）参与挖矿。<br>
+首先，你需要拥有可观的以太坊算力（甚至超过 51%）参与挖矿。<br>
 如果你挖出了区块并且计算出自己没有中奖，则可以放弃这个区块（包含当前价值近千美元的区块奖励），然后在期望没有其他矿工抢先的情况下，自己挖出的下一个区块可以让自己中奖。
