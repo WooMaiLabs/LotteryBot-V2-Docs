@@ -36,7 +36,7 @@
 
 ## 验证工具
 
-我们提供了用于自行验证中奖结果的工具。该工具是 [开源的](../tools/verify-tool/)。
+我们提供了用于自行验证中奖结果的工具。该工具是 [开源的]([../tools/verify-tool/](https://github.com/WooMaiLabs/LotteryBot-V2-Docs/tree/master/tools/verify-tool))。
 
 ## 附录
 
