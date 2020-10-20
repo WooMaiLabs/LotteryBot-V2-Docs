@@ -1,3 +1,5 @@
+[<- 返回目录](index.md)
+
 # 服务条款
 
 > Telegram Lottery Bot (@tgLotteryBot / @tglottery_bot) 及其相关服务、频道等，以下简称“本服务”或其同义词。<br>

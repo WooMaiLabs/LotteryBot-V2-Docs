@@ -1,3 +1,5 @@
+[<- 返回目录](index.md)
+
 # 中奖结果的计算
 
 > Revision 1
@@ -38,6 +40,12 @@
 ## 验证工具
 
 我们提供了用于自行验证中奖结果的工具。该工具是 [开源的](https://github.com/WooMaiLabs/LotteryBot-V2-Docs/tree/master/tools/verify-tool)。
+
+## 关于计算方式的更新
+
+我们可能会出于漏洞修复、稳定性、公平合理性、数据源不可用等原因修改抽奖算法。<br>
+如果计算方法出现了重大修改，我们将会同步更新此文档。<br>
+同时，如果您认为当前的计算方式存在问题，欢迎通过邮件 `lotbot@wmlabs.net` 联系我们。
 
 ## 附录
 

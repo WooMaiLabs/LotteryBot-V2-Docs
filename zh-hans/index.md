@@ -1,4 +1,9 @@
-# Lottery Bot 文档
+# Lottery Bot V2 文档
+
+## Introduction
+
+欢迎使用全新的 Lottery Bot V2 !<br>
+V2 机器人相较先前版本，引入了更加公开透明的中奖算法，同时也对先前版本出现的诸多问题进行了修复与优化。
 
 ## 目录
 
