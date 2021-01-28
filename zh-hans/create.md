@@ -7,7 +7,7 @@
 
 ## 获取创建链接
 
-私聊机器人发送 `/create` 。
+私聊机器人 [@tgLotteryBot](https://t.me/tgLotteryBot) 发送 `/create` 。
 
 > 为了避免扰乱群组指令列表，该指令不在机器人的指令列表中。<br>
 > 但该指令在 /help 菜单中可见。
