@@ -2,7 +2,7 @@
 
 # 中奖结果的计算
 
-> Revision 1
+> Revision 1, 2020-08-12
 
 我们为 [Lottery Bot V2](about.md) 设计了一套抽奖算法。设计该算法的目的是使用具有不可否认性的随机数据来源来进行透明公正的抽奖计算。<br>
 该算法基于[以太坊](https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%A4%AA%E5%9D%8A)区块链数据来计算获奖者。<br>
