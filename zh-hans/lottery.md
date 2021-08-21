@@ -65,12 +65,11 @@ User ID Hash = sha256(User ID + 抽奖ID)
 ### 如何控制中奖结果？
 
 首先，你需要拥有可观的以太坊算力（中奖概率和算力呈正比，甚至达到[全网算力的 51%](https://academy.binance.com/zh/security/what-is-a-51-percent-attack)）参与挖矿。<br>
-如果你在开奖后最先挖出了新区块并且计算出自己没有中奖，则可以放弃这个区块的奖励（当前每个区块收益相当于 2000 美元左右）不上报，然后在期望没有其他矿工抢先的情况下，自己挖出的下一个区块可以让自己中奖。<br>
+如果你在开奖后最先挖出了新区块并且计算出自己没有中奖，则可以放弃这个区块的奖励（当前相当于 9000 美元左右，[查看最新数据](https://bitinfocharts.com/ethereum/)）不上报，然后在期望没有其他矿工抢先的情况下，自己挖出的下一个区块可以让自己中奖。<br>
 所以在绝大多数情况下，控制中奖结果或提高中奖概率是非常困难、成本相当高且仍然难以控制的。
 
 ### 为什么选择基于以太坊区块链？
 
 我们首先确定了选择使用基于 [工作量证明 (PoW)](https://www.coindesk.com/what-is-proof-of-work) 的区块链作为不可否定的随机数据来源。<br>
-在 [PoW 加密货币排行](https://www.f2pool.com/coins) 中的前几位中，比特币的全网算力位列第一，但由于 [比特币的平均 Block Time](https://bitinfocharts.com/comparison/bitcoin-confirmationtime.html) 为 10 分钟（一般在 5~60 分钟中浮动），在一个即时通信平台上，未免时间有些太长。<br>
-我们将目光转向了排名第二的以太坊。[以太坊的平均 Block Time](https://etherscan.io/chart/blocktime) 仅为 13.3 秒，同时全网算力仍然[高到难以实施攻击](https://www.crypto51.app/)。<br>
-这正是我们所需要的。所以我们选择了以太坊。
+在 [PoW 加密货币排行](https://www.f2pool.com/coins) 中的前几位中，比特币的全网算力位列第一，但由于 [比特币的平均 Block Time](https://bitinfocharts.com/comparison/bitcoin-confirmationtime.html) 为 10 分钟（一般在 5~60 分钟中浮动），在 IM 平台上体验不佳。<br>
+因此将目光转向了排名第二的以太坊。[以太坊的平均 Block Time](https://etherscan.io/chart/blocktime) 仅为 13.3 秒，同时全网算力仍然[高到难以实施攻击](https://www.crypto51.app/)。
