@@ -5,10 +5,10 @@
 > Revision 1, 2020-08-12
 
 我们为 [Lottery Bot V2](about.md) 设计了一套抽奖算法。设计该算法的目的是使用具有不可否认性的随机数据来源来进行透明公正的抽奖计算。<br>
-该算法基于[以太坊](https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%A4%AA%E5%9D%8A)区块链数据来计算获奖者。<br>
+该算法基于 [Ethereum](https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%A4%AA%E5%9D%8A) 区块链数据来计算获奖者。<br>
 由于区块链的去中心化特性，用户无需信任我们，也可确保抽奖结果的公平公正。
 
-> 注意: 本文中所述的“以太坊”均为 Ethereum 1.0 (PoW) 区块链, 并非 Ethereum 2.0 (PoS)。
+> 注意: 本文中所述的 Ethereum 区块链基于 PoW 共识，如后续其修改共识机制，我们将发布新版算法。
 
 ## 计算方式
 
@@ -16,7 +16,7 @@
 
 1. 抽奖 ID、抽奖参与人数与奖品份数。
 2. 公示的所有参与用户的 [Telegram User ID Hash](#user-id-hash-的计算方式)，将这些 ID 写入一个数组，并按 ASCII 码<b>从大到小</b>分配 0 开始的自增 ID。
-3. 开奖时间之后的第一个以太坊 Block Hash (不包含 `0x` 前缀)。
+3. 开奖时间之后的第一个以太坊 Block Hash (包含 `0x` 前缀)。
 
 我们提供了一个 API 接口以获取这些数据。
 
@@ -42,7 +42,7 @@
 
 ## 验证工具
 
-我们提供了用于自行验证中奖结果的工具。该工具是 [开源的](https://github.com/WooMaiLabs/LotteryBot-V2-Docs/tree/master/tools/verify-tool)。
+我们提供了用于自行验证中奖结果的工具。该工具是开源的，托管于 [GitHub](https://github.com/WooMaiLabs/Lottery-Bot-Validate-Tool)。
 
 ## 关于计算方式的更新
 
