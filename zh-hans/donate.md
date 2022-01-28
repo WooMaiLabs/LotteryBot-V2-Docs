@@ -11,16 +11,16 @@
 
 ## 加密货币
 
-### BTC, BCH, BSV, USDT
+### BTC, BCH, BSV
 
 ```
 1WooMaiGU7oVhGodDKm2nfXd8vvy3goz6
 ```
 
-### ETH, ETC, USDT
+### EVM (ETH, ETC, BSC, MATIC, etc.)
 
 ```
-0x8888888e3f2469f03fd8ea96f372e744f43bf0b0
+0x666666666e56356B423537B017c2992CEf746015
 ```
 
 ## Patreon
