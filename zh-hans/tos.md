@@ -55,7 +55,7 @@
 
 1. 宣扬暴力、恐怖主义、血腥。
 2. 毒品相关（以《[中华人民共和国禁毒法](https://zh.wikisource.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%A6%81%E6%AF%92%E6%B3%95)》第二条第一款或台湾地区《[毒品危害防制條例](https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=C0000008&flno=2)》第二条为准）。
-3. 侵犯他人个人信息。
+3. 侵犯他人个人信息权益。
 
 ## 违规处置
 
